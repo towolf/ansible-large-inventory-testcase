@@ -1,2 +1,2 @@
 #!/bin/sh
-cat inventory.random
+cat inventory.json
